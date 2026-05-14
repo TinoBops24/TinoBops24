@@ -34,12 +34,10 @@ Beyond the selected projects above, I work with:
 - Vue.js
 - Firebase
 - Metabase
-- Git and GitHub
-- Database design and reporting workflows
 
 ## Currently Building
 
-- A blockchain-enabled digital credential verification prototype.
+- A blockchain-powered digital credential management system prototype.
 - An AI-enabled publicity monitoring and sentiment analysis system.
 
 ## Interests
