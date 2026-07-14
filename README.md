@@ -42,4 +42,4 @@ Beyond the selected projects above, I work with:
 
 ## Interests
 
-Fintech systems | Full-stack development | AI-enabled applications | Database-driven products
+Fintech systems | Full-stack development | AI-enabled applications
