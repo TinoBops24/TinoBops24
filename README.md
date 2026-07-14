@@ -1,4 +1,4 @@
-# Hi, I'm Tinomudai
+# Hi, I'm Tino
 
 I build full-stack web applications, and I am interested in fintech, database-driven applications, and AI-enabled software systems.
 
